@@ -53,6 +53,7 @@ dependencies {
 
     //unit test
     implementation(project(mapOf("path" to ":libImgur")))
+    implementation("androidx.legacy:legacy-support-v4:1.0.0")
 
 
 
